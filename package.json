@@ -1,0 +1,25 @@
+{
+  "name": "rainysistem",
+  "version": "1.0.0",
+  "description": "rainy bey",
+  "main": "rainy.js",
+  "scripts": {
+    "test": "node rainy.js",
+    "start": "nodemon rainy.js"
+  },
+  "author": "rainy bey",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.11.0",
+    "discord.js": "^14.1.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.38",
+    "mongoose": "^6.5.1",
+    "nodemon": "^2.0.19",
+    "parse": "^3.4.4",
+    "timezone": "^1.0.23"
+  },
+  "keywords": []
+}
