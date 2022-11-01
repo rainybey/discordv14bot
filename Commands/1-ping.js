@@ -1,4 +1,3 @@
-const mongoose = require('mongoose')
 module.exports = {
     "code": "ping","aliases": [], async run (client,message,args){
      
