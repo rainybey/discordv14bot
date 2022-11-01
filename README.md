@@ -6,8 +6,8 @@
 Discord'da kendi kendime botlar yapıyorum ve bu botları github hesabımda paylaşıyorum sizde yararlanmak isterseniz bir göz atmanızı öneririm.
 
 
-Discord Nick'im (the råinyٴ#0006) - [Bana Ulaşabiliceğiniz Sunucular](https://discord.gg/frankia)
-
+Discord Nick'im (råiny.ٴ#0001) - [Bana Ulaşabiliceğiniz Sunucular!](https://discord.gg/WzpSP5eTHY)
+[Bana Ulaşabiliceğiniz Sunucular!](https://discord.gg/hQxEh7YXXP)
 
 
 
