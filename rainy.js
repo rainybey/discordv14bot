@@ -1,6 +1,6 @@
 const { Client, Events, GatewayIntentBits, Partials, Collection, EmbedBuilder, ActivityType } = require("discord.js");
 //Bu Bot råiny.ٴ#0001 tarafından hazırlanmıştır.
-const client = new Client({
+const client = global.client = new Client({
   partials: [
     Partials.Message, 
     Partials.Channel, 
